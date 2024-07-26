@@ -23,10 +23,11 @@
               <p></p>
             </div>
           </div>
+
           <div class="w-full md:w-1/3 px-3 mb-6">
             <div class="bg-white rounded-lg shadow-lg p-6">
               <h3 class="text-2xl font-bold mb-4">TECHNOLOGY</h3>
-              <img src="/assets/es.jpg" alt="Hero Image" class="w-5/6 h-auto mx-auto mt-8 object-cover" />
+              <img src="/assets/es.jpg" alt="Hero Image" class="w-3/4 h-auto mx-auto mt-8 object-cover" />
               <p>
                 </p>
             </div>
@@ -34,7 +35,7 @@
           <div class="w-full md:w-1/3 px-3 mb-6">
             <div class="bg-white rounded-lg shadow-lg p-6">
               <h3 class="text-2xl font-bold mb-4">Detailed Reports</h3>
-              <img src="/assets/er.jpg" alt="Hero Image" class="w-5/6 h-auto mx-auto mt-8 object-cover" />
+              <img src="/assets/er.jpg" alt="Hero Image" class="w-3/4 h-auto mx-auto mt-8 object-cover" />
               <p></p>
             </div>
           </div>
