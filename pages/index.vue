@@ -39,18 +39,18 @@
       <!-- Call to Action Section -->
       <div>
     <section class="bg-blue-800 text-white text-center py-16">
-      <h2 class="text-3xl font-semibold">Start Learning Today!</h2>
-      <p class=" mt-2 text-lg mb-8">Explore our wide range of tech courses to enhance your skills.</p>
+      <h2 class="text-2xl font-semibold">Certainly! How about this:</h2>
+      <p class=" mt-2 text-lg mb-8">"Discover our diverse selection of tech courses designed to elevate your skills and ignite your passion for technology.".</p>
       <NuxtLink to="/Courses" class="bg-white text-blue-500 py-2 px-4 rounded-full font-bold hover:bg-gray-200">Get Started</NuxtLink>
     </section>
   </div>
 
     <section class="container mt-8 mx-auto p-4">
-      <h2 class="text-2xl font-bold mb-4 text-center ">Featured Courses</h2>
+      <h2 class="text-2xl font-bold mb-8 text-center ">Technology Impacts'</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        <CourseCard id="1" title="Course 1" description="Brief description of Course 1" />
-        <CourseCard id="2" title="Course 2" description="Brief description of Course 2" />
-        <CourseCard id="3" title="Course 3" description="Brief description of Course 3" />
+        <CourseCard id="1" title="Improved Communication" description="Faster and more efficient exchanges through advanced technology." />
+        <CourseCard id="2" title="AI Changing The Way We Work" description="We work by automating tasks and enhancing productivity." />
+        <CourseCard id="3" title="Better Information Access" description="Improved and easier ways to find, retrieve, and use information through technology." />
       </div>
     </section>
     </div>
