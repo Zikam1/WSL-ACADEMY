@@ -2,7 +2,7 @@
    <template>
     <div class="bg-gray-100 min-h-screen">
       <!-- Hero Section -->
-      <section class="bg-yellow-500 text-white py-20">
+      <section class="bg-yellow-400 text-white py-20">
         <div class="container mx-auto px-6 text-center">
           <h2 class="text-3xl font-semibold">Start Learning Today!</h2>
       <p class="mt-4 text-lg">Explore our wide range of tech courses to enhance your skills.</p>
@@ -14,29 +14,23 @@
       <!-- Features Section -->
       <section class="container mx-auto px-6 py-20">
         <h2 class="text-4xl font-bold text-center mb-12">Courses</h2>
-        <div class="flex flex-wrap -mx-3">
-          <div class="w-full md:w-1/3 px-3 mb-6">
+        <div class="flex flex-wrap -mx-4">
+          <div class="w-full md:w-1/3 px-3 mb-4">
             <div class="bg-white rounded-lg shadow-lg p-6">
-              <!-- <h3 class="text-2xl font-bold mb-4">Easy to Use</h3> -->
               <img src="/assets/wsl.jpg" alt="Hero Image" class="w-5/6 h-auto mx-auto mt-8 object-cover" />
-
-              <p></p>
             </div>
           </div>
 
           <div class="w-full md:w-1/3 px-3 mb-6">
             <div class="bg-white rounded-lg shadow-lg p-6">
-              <h3 class="text-2xl font-bold mb-4">TECHNOLOGY</h3>
+              <!-- <h3 class="text-2xl font-bold mb-4">TECHNOLOGY</h3> -->
               <img src="/assets/es.jpg" alt="Hero Image" class="w-3/4 h-auto mx-auto mt-8 object-cover" />
-              <p>
-                </p>
             </div>
           </div>
           <div class="w-full md:w-1/3 px-3 mb-6">
             <div class="bg-white rounded-lg shadow-lg p-6">
-              <h3 class="text-2xl font-bold mb-4">Detailed Reports</h3>
+              <!-- <h3 class="text-2xl font-bold mb-4">Detailed Reports</h3> -->
               <img src="/assets/er.jpg" alt="Hero Image" class="w-3/4 h-auto mx-auto mt-8 object-cover" />
-              <p></p>
             </div>
           </div>
         </div>
