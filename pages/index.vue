@@ -24,7 +24,7 @@
           <div class="w-full md:w-1/3 px-3 mb-6">
             <div class="bg-white rounded-lg shadow-lg p-6">
               <!-- <h3 class="text-2xl font-bold mb-4">TECHNOLOGY</h3> -->
-              <img src="/assets/ty2.jpg" alt="Hero Image" class="w-3/4 h-auto mx-auto mt-8 object-cover" />
+              <img src="/assets/ty5.jpg" alt="Hero Image" class="w-3/4 h-auto mx-auto mt-8 object-cover" />
             </div>
           </div>
           <div class="w-full md:w-1/3 px-3 mb-6">
